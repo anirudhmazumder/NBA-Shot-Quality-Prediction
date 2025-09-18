@@ -19,7 +19,8 @@ I cleaned the data by removed missing values, converted time features, and dropp
 I trained logistic regression, random forest, and neural network models and calcualted evaluation metrics for each model, such as, AU-ROC values, accuracy metrics, and a classification report. I then saved the neural network because it performed the best.
 
 ### 3. Data Analysis and Visualization
-I created a webapp using Streamlit to visualize information about the data and added a filter so users can see the performance of the model and how well a player was at shooting on a player-by-player basis. 
+I created a webapp using Streamlit to visualize information about the data and added a filter so users can see the performance of the model and how well a player was at shooting on a player-by-player basis. Below is an example of some of the data that is visualized on the dashboard.
+<img width="1401" height="473" alt="Screenshot 2025-09-18 at 12 40 20 PM" src="https://github.com/user-attachments/assets/b73261b0-a28c-4aec-b782-bd514548fd0f" />
 
 ## Citation
 Shot Logs Dataset: https://www.kaggle.com/datasets/dansbecker/nba-shot-logs/data
